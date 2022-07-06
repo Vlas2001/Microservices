@@ -1,0 +1,15 @@
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\Shared.Dto.deps.json
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\Shared.Dto.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\ref\Shared.Dto.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\Shared.Dto.pdb
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\bin\Debug\net5.0\Shared.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.csproj.CopyComplete
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\ref\Shared.Dto.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Dto\obj\Debug\net5.0\Shared.Dto.pdb

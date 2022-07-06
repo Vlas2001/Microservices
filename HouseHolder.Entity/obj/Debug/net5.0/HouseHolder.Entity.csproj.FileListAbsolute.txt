@@ -1,0 +1,15 @@
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\HouseHolder.Entity.deps.json
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\HouseHolder.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\ref\HouseHolder.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\HouseHolder.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\bin\Debug\net5.0\Shared.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.csproj.CopyComplete
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\ref\HouseHolder.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\HouseHolder.Entity\obj\Debug\net5.0\HouseHolder.Entity.pdb

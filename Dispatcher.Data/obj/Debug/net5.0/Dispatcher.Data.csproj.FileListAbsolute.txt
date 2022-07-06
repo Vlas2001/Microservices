@@ -1,0 +1,17 @@
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Dispatcher.Data.deps.json
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Dispatcher.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\ref\Dispatcher.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Dispatcher.Data.pdb
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Dispatcher.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Dispatcher.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\bin\Debug\net5.0\Shared.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.csproj.CopyComplete
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\ref\Dispatcher.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\Dispatcher.Data\obj\Debug\net5.0\Dispatcher.Data.pdb

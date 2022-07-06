@@ -1,0 +1,15 @@
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\WorkPlan.Data.deps.json
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\WorkPlan.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\ref\WorkPlan.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\WorkPlan.Data.pdb
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\WorkPlan.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\bin\Debug\net5.0\WorkPlan.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.csproj.CopyComplete
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\ref\WorkPlan.Data.dll
+C:\Users\vlask\RiderProjects\Lab3\WorkPlan.Data\obj\Debug\net5.0\WorkPlan.Data.pdb

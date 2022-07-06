@@ -1,0 +1,12 @@
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\bin\Debug\net5.0\Shared.Repository.deps.json
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\bin\Debug\net5.0\Shared.Repository.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\bin\Debug\net5.0\ref\Shared.Repository.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\bin\Debug\net5.0\Shared.Repository.pdb
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\ref\Shared.Repository.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Repository\obj\Debug\net5.0\Shared.Repository.pdb

@@ -1,0 +1,12 @@
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\bin\Debug\net5.0\Shared.Entity.deps.json
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\bin\Debug\net5.0\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\bin\Debug\net5.0\ref\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\bin\Debug\net5.0\Shared.Entity.pdb
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\ref\Shared.Entity.dll
+C:\Users\vlask\RiderProjects\Lab3\Shared.Entity\obj\Debug\net5.0\Shared.Entity.pdb
